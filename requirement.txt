@@ -1,1 +1,5 @@
-
+In this software i used:
+1-python language
+2-openpyxl
+3-openweather.org API
+4-requests
